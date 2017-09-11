@@ -1,6 +1,6 @@
 # robots with js
 
-JS code for self-build robo project. See http://www.nodebots.ch/
+JS code for self-built robo project. See http://www.nodebots.ch/
 
 Prepare:
     npm install johnny-five
